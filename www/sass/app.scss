@@ -1,0 +1,16 @@
+/* Fullscreen map container */
+.fullscreen-map {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+/* Style for the control panel */
+.control-panel {
+  position: absolute;
+  top: 25px;
+  right: 25px;
+  background-color: rgba(200, 200, 200, 0.3);
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
